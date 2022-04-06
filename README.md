@@ -10,18 +10,16 @@ If you have something interesting, then feel free to write to me:
 <code><a href="https://vk.com/xyligan_gp"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/VK.png"></a></code>
 
 ### Language and Tools
-<code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/JavaScript.png"></code> 
-<code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/TypeScript.png"></code>
-<code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/NodeJS.png"></code> 
-<code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/React.png"></code>
-<code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/GalaxyGate.png"></code>
+<a href="https://javascript.com"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/JavaScript.png"></code></a>
+<a href="https://typescriptlang.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/TypeScript.png"></code></a>
+<a href="https://nodejs.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/NodeJS.png"></code></a>
+<a href="https://reactjs.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/React.png"></code></a>
+<a href="https://galaxygate.net"><code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/GalaxyGate.png"></code></a>
 
 ### GitHub Stats
-<center>
-  ![My Language Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xyligan-gp&layout=compact&theme=dark&countPrivate=true)
-  <br>
-  ![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=xyligan-gp&show_icons=true&include_all_commits=true&theme=dark&countPrivate=true)
-</center>
+![My Language Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=xyligan-gp&layout=compact&theme=dark&countPrivate=true)
+<br>
+![My Stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=xyligan-gp&show_icons=true&include_all_commits=true&theme=dark&countPrivate=true)
 
 <br>
 <br>
