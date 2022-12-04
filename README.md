@@ -8,7 +8,6 @@ If you have something interesting, then feel free to write to me:
 
 <code><a href="https://t.me/xyligan_gp"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Telegram.png"></a></code>
 <code><a href="https://discord.com/users/533347075463577640"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Discord.png"></a></code>
-<code><a href="https://vk.com/xyligan_gp"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/VK.png"></a></code>
 
 ### Language and Tools
 <a href="https://javascript.com"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/JavaScript.png"></code></a>
