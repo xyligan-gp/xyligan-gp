@@ -6,7 +6,7 @@
 
 If you have something interesting, then feel free to write to me:
 
-<code><a href="https://t.me/psyxokilled"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Telegram.png"></a></code>
+<code><a href="https://t.me/xyligan_shgsh"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Telegram.png"></a></code>
 <code><a href="https://discord.com/users/533347075463577640"><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Discord.png"></a></code>
 
 ### Language and Tools
@@ -14,8 +14,7 @@ If you have something interesting, then feel free to write to me:
 <a href="https://typescriptlang.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/TypeScript.png"></code></a>
 <a href="https://nodejs.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/NodeJS.png"></code></a>
 <a href="https://reactjs.org"><code><img height="32" width="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/React.png"></code></a>
-<a href="https://the.hosting"><code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/PQ.png"></code></a>
-<a href="https://galaxygate.net"><code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/GalaxyGate.png"></code></a>
+<a href="https://webdock.io"><code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Webdock.png"></code></a>
 <a href="https://sourcemod.net"><code><img width="32" height="32" src="https://github.com/xyligan-gp/xyligan-gp/raw/master/icons/Sourcemod.png"></code></a>
 
 ### GitHub Stats
